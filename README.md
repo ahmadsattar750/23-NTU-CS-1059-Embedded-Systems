@@ -22,6 +22,12 @@ Displays name and roll number on the OLED using the Adafruit SSD1306 library.
 
 Draws a smile emoji 😊 on the OLED using the Adafruit SSD1306 library.
 
+# Buzzer with Two LED's
+<img src="https://github.com/user-attachments/assets/344a74b5-cfae-4056-82da-9025f79055bc" width="500"><br>
+
+In this setup, the buzzer is activated along with two LEDs to provide both visual and sound alerts, demonstrating synchronized output control using the ESP32.
+
+
 
 
 
