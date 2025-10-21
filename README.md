@@ -27,8 +27,15 @@ Draws a smile emoji 😊 on the OLED using the Adafruit SSD1306 library.
 
 In this setup, the buzzer is activated along with two LEDs to provide both visual and sound alerts, demonstrating synchronized output control using the ESP32.
 
+# Temperature Sensor - DHT
+<img src="https://github.com/user-attachments/assets/534ed2d8-373f-47ef-a38d-7f3372b1771c" width="500"><br>
+
+Temperature Sensor circuit built on breadboard using DHT sensor and ESP32 for real-time temperature readings.
 
 
+# Light & Temperature Sensing (LDR & DHT)
+<img src="https://github.com/user-attachments/assets/b80be7be-66dd-4cc6-8843-fe716a4c3a29" width ="500"><br>
 
+LDR and DHT on breadboard using ESP32 for light and temperature detection, and shown on OLED.
 
 
