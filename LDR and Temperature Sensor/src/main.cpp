@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include <Wire.h>
+#include <Wire.h>         //I2C communication Library
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 #include <DHT.h>
