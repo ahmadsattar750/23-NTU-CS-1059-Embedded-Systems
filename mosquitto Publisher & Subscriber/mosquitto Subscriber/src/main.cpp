@@ -17,12 +17,12 @@ char ssid[] = "Wokwi-GUEST";
 char pass[] = "";
 
 // ---------- MQTT ----------
-const char* mqtt_server = "10.157.120.153"; // Change to your MQTT broker IP
+const char* mqtt_server = "host.wokwi.internal"; // Change to your MQTT broker IP
 const int mqtt_port = 1883;
 
 // Multiple topics from different publishers
-const char* TOPIC_PUBLISHER1_TEMP = "home/lab1/temp"; // Publisher 1 - Temperature
-const char* TOPIC_PUBLISHER1_HUMID = "home/lab1/hum";   // Publisher 1 - Humidity
+const char* TOPIC_PUBLISHER1_TEMP = "myhome/lab1/temp"; // Publisher 1 - Temperature
+const char* TOPIC_PUBLISHER1_HUMID = "myhome/lab1/hum";   // Publisher 1 - Humidity
 
 // ---------- OLED ----------
 #define SCREEN_WIDTH 128
